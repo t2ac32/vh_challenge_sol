@@ -13,8 +13,10 @@ A cvs explaining the dataset can be found in:
 ./Data/dataset/esc50
 
 ## How to:
+Requirements.txt file is provided with used dependencies.
 Open solutions notebook
-run all cells up to Train header:
+For training:
+- run all cells up to Train header:
 
 ## Todo
 Prediction:
